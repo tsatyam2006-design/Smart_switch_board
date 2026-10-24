@@ -1,10 +1,3 @@
-/*
-  ESP32 4-Relay Home Automation
-  - SinricPro for Alexa/Google
-  - Simple web UI with 4 toggles (AJAX)
-  - Replace placeholders (WiFi, Sinric keys, device IDs)
-*/
-
 #include <WiFi.h>
 #include <WebServer.h>
 #include <SinricPro.h>
